@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwnerApplication", "OwnerApplication\OwnerApplication.csproj", "{B85987BD-C0D3-45A9-80CB-ABB94C5FEE65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartParkingAppLib", "SmartParkingAppLib\SmartParkingAppLib.csproj", "{3983F7AB-B595-4ACF-B581-30BA0A9B9C6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingApp", "ParkingApp\ParkingApp.csproj", "{EA8372CD-0F5A-45E9-98D6-0DD364E1DC6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B85987BD-C0D3-45A9-80CB-ABB94C5FEE65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B85987BD-C0D3-45A9-80CB-ABB94C5FEE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B85987BD-C0D3-45A9-80CB-ABB94C5FEE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B85987BD-C0D3-45A9-80CB-ABB94C5FEE65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3983F7AB-B595-4ACF-B581-30BA0A9B9C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3983F7AB-B595-4ACF-B581-30BA0A9B9C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3983F7AB-B595-4ACF-B581-30BA0A9B9C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3983F7AB-B595-4ACF-B581-30BA0A9B9C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA8372CD-0F5A-45E9-98D6-0DD364E1DC6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8372CD-0F5A-45E9-98D6-0DD364E1DC6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8372CD-0F5A-45E9-98D6-0DD364E1DC6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8372CD-0F5A-45E9-98D6-0DD364E1DC6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DE71027-7BF1-4FC5-BEEA-9CBD30568859}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+D:\C#\BI_HW2\SmartParkingAppProjects\SmartParkingAppV2\SmartParkingApp2\SmartParkingAppLib\bin\Debug\Data\ParkingData.json
+D:\C#\BI_HW2\SmartParkingAppProjects\SmartParkingAppV2\SmartParkingApp2\SmartParkingAppLib\bin\Debug\Data\Tariffs.json
+D:\C#\BI_HW2\SmartParkingAppProjects\SmartParkingAppV2\SmartParkingApp2\SmartParkingAppLib\bin\Debug\Data\Users.json
+D:\C#\BI_HW2\SmartParkingAppProjects\SmartParkingAppV2\SmartParkingApp2\SmartParkingAppLib\bin\Debug\SmartParkingAppLib.dll
+D:\C#\BI_HW2\SmartParkingAppProjects\SmartParkingAppV2\SmartParkingApp2\SmartParkingAppLib\bin\Debug\SmartParkingAppLib.pdb
+D:\C#\BI_HW2\SmartParkingAppProjects\SmartParkingAppV2\SmartParkingApp2\SmartParkingAppLib\bin\Debug\Newtonsoft.Json.dll
+D:\C#\BI_HW2\SmartParkingAppProjects\SmartParkingAppV2\SmartParkingApp2\SmartParkingAppLib\bin\Debug\Newtonsoft.Json.xml
+D:\C#\BI_HW2\SmartParkingAppProjects\SmartParkingAppV2\SmartParkingApp2\SmartParkingAppLib\obj\Debug\SmartParkingAppLib.csprojAssemblyReference.cache
+D:\C#\BI_HW2\SmartParkingAppProjects\SmartParkingAppV2\SmartParkingApp2\SmartParkingAppLib\obj\Debug\SmartParkingAppLib.csproj.CoreCompileInputs.cache
+D:\C#\BI_HW2\SmartParkingAppProjects\SmartParkingAppV2\SmartParkingApp2\SmartParkingAppLib\obj\Debug\SmartParkingAppLib.csproj.CopyComplete
+D:\C#\BI_HW2\SmartParkingAppProjects\SmartParkingAppV2\SmartParkingApp2\SmartParkingAppLib\obj\Debug\SmartParkingAppLib.dll
+D:\C#\BI_HW2\SmartParkingAppProjects\SmartParkingAppV2\SmartParkingApp2\SmartParkingAppLib\obj\Debug\SmartParkingAppLib.pdb
