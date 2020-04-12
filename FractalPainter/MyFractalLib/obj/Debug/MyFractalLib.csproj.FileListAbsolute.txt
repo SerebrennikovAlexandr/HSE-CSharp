@@ -1,0 +1,6 @@
+D:\HSE C#\Serebrennikov_149\MyFractalLib\bin\Debug\MyFractalLib.dll
+D:\HSE C#\Serebrennikov_149\MyFractalLib\bin\Debug\MyFractalLib.pdb
+D:\HSE C#\Serebrennikov_149\MyFractalLib\obj\Debug\MyFractalLib.csproj.CoreCompileInputs.cache
+D:\HSE C#\Serebrennikov_149\MyFractalLib\obj\Debug\MyFractalLib.dll
+D:\HSE C#\Serebrennikov_149\MyFractalLib\obj\Debug\MyFractalLib.pdb
+D:\HSE C#\Serebrennikov_149\MyFractalLib\obj\Debug\MyFractalLib.csprojAssemblyReference.cache
